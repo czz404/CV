@@ -52,6 +52,8 @@ main: #简历主要内容，
     - 生物 Origin,ImageJ
     - 办公 Office办公软件
     - 剪辑 PR,Arctime Pro 
+   - title:
+     sumary:
 
 - type: experience
   name: 经验
