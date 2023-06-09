@@ -33,7 +33,7 @@ main: #简历主要内容，
   - title: 武汉理工大学
     duration: "2019年6月 - 2023年6月"
     sub: 本科学士
-    detail: 生物技术专业 武汉理工大学与法国艾克斯马赛学院双学位
+    detail: 生物技术专业                武汉理工大学与法国艾克斯马赛学院双学位
   - title: 
     duration: 
     sub: 
@@ -42,11 +42,11 @@ main: #简历主要内容，
 - type: skills
   # name: "技能"
   content:
-  - title: 编程语言
+  - title: 语言
     items: #itmems 可以小块的方式显示
-    - 汉语
-    - 语言 2
-    - 语言 3
+    - 汉语 普通话二甲
+    - 英语 大学英语六级：538
+    - 法语 入门水平 
   - title: Skill Group
     summary: Consectetur, Adipiscing, Elit
 
