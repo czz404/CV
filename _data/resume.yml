@@ -46,7 +46,7 @@ main: #简历主要内容，
     items: #itmems 可以小块的方式显示
     - 汉语 普通话二甲
     - 英语 大学英语六级：538
-    - 法语 入门 
+    - 法语 入门水平 
   - title: 软件
    items: #itmems 可以小块的方式显示
     - 生物 Origin,ImageJ
