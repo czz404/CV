@@ -47,8 +47,10 @@ main: #简历主要内容，
     - 汉语 普通话二甲
     - 英语 大学英语六级：538
     - 法语 入门水平 
-  - title: Skill Group
-    summary: Consectetur, Adipiscing, Elit
+  - title: 软件
+    summary:  - 生物 - Origin,ImageJ
+              - 办公 - Office办公软件
+              - 剪辑 - PR,Arctime Pro 
 
 - type: experience
   name: 经验
