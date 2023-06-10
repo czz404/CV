@@ -57,12 +57,14 @@ main: #简历主要内容，
   name: 经验
   content:
   - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
+    sub: 团委新闻部和青年志愿者协会宣传部
+    duration: "2019年10月 - 2023年6月"
     tags:
-    - 标签
-    summary: 职务或者工作总结(自动折叠)
-    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
+    - 学生工作
+    summary: 干事及院宣传委
+    detail: 1.	参与拍摄、剪辑商品、风景、疫情、社会实践、科学实验等主题宣传片；
+            2.	撰写团委、学生会、学院各类活动新闻，在院主页和国家、省、市新闻平台发表文章17篇； 
+            3.	成功组织一场扶贫义卖活动；协助组织完成多项志愿服务；培训各班宣传委员。
     # open: open
     #可以设置open默认展开
   - title: Job Title
