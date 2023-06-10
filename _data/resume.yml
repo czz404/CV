@@ -1,7 +1,7 @@
 # 数据格式可以为 yaml(文件以.yml结尾) 或者json(文件以.json结尾)
 # 如果YAML格式的数据请先检查格式是否有误，可选检查工具 http://www.yamllint.com
 
-title: "陈治铮简历"
+title: "陈治铮 简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "陈治铮"
 jobtitle: "" #可空不显示
@@ -84,7 +84,7 @@ main: #简历主要内容，
             2.	作为实习负责人，负责实习期间全过程中与厂家，校方和同学之间的沟通与协商工作。
     
 - type: projects
-  name: Projects
+  name: 项目
   content:
   - title: 项目名称
     duration: xxxx年xx月 - yyyy年yy月
