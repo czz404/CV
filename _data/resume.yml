@@ -67,14 +67,22 @@ main: #简历主要内容，
             3.	成功组织一场扶贫义卖活动；协助组织完成多项志愿服务；培训各班宣传委员。
     # open: open
     #可以设置open默认展开
-  - title: Job Title
-    sub: Your 2nd, Inc.  
-    duration: Apr 2013 - Mar 2016
+  - title: 职位
+    sub: 沈阳狐狸寰球教育科技有限公司  
+    duration: "2021 年 7 月 - 2022 年 8 月"
     tags: 
-    - tagname
-    summary: Summary your job or work. (Collapse)
-    detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+    - 实习工作
+    summary: 视频剪辑师
+    detail: 参与拍摄多个中国文化宣传视频，负责视频的剪辑和拍摄。
+- title: 职位
+    sub: 湖北健肽生物科技有限公司  
+    duration: "2022 年 8 月 - 2022 年 9 月"
+    tags: 
+    - 实习工作
+    summary: 实习生
+    detail: 1.	在研发、质检实验室和生产、包装车间轮岗；
+            2.	作为实习负责人，负责实习期间全过程中与厂家，校方和同学之间的沟通与协商工作。
+    
 - type: projects
   name: Projects
   content:
