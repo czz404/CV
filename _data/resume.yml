@@ -86,34 +86,26 @@ main: #简历主要内容，
 - type: projects
   name: 项目
   content:
-  - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
-  - title: Project Name
-    summary: Projects' introduction or summary
-    detail:
-      md: _data/demo.md
-    sub: Creator and maintainer.
+  - title: 武汉理工大学关于在抗击非典和新冠肺炎疫情中社会应对措施的比较和分析暑期社会实践队
+    duration: 2020年7月 - 2020年9月
+    detail: 所在团队获评湖北省2020年暑期“三下乡”社会实践活动优秀团队
+    sub: 团队人员
+  - title: 研发用于重金属离子检测的便携式比色传感器
+    summary: 并针对铜、铬、镍三种重金属元素制作出了对应的快速检测试纸
+    detail: 撰写“新便携式总金属检测试纸更廉价、便捷”一文，发表在“中国科技网”
+    sub: 团队人员
    #可继续添加更多内容
 
 #others 其他简略内容(列表)
 others: #其他列表显示
 - type: others #ID可以为空
-  name: '其他'
+  name: '荣誉奖励'
   content: #选择需要的格式
-  - 单行文字
-  - title: "加粗:"
-    text: "列表项二"
-  - title: "兴趣:"
-    items: #单行列表
-    - 睡觉
-    - 吃饭
-    - coding
-  - title: 列表
     list:
-    - 第一项
-    - 第二项
+    - 青年志愿者协会优秀干事
+    - “百生讲坛”院级铜牌主讲人
+    - 2020 "外研社·国才杯" 全国英语阅读大赛校级初赛三等奖
+    - 本科课外培养优秀学生
 #- type: 
 #  name: '其他'
 #  content: #选择需要的格式
