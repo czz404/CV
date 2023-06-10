@@ -43,12 +43,12 @@ main: #简历主要内容，
   name: 技能
   content:
   - title: 语言
-    items: #itmems 可以小块的方式显示
+    list: #itmems 可以小块的方式显示
     - 汉语 普通话二甲
     - 英语 大学英语六级：538
     - 法语 入门水平 
   - title: 软件
-    items:  
+    list:  
     - 生物 - Origin,ImageJ
     - 办公 - Office办公软件
     - 剪辑 - PR,Arctime Pro 
