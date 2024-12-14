@@ -42,16 +42,19 @@ main: #简历主要内容，
 - type: skills
   name: 技能
   content:
-  - title: 语言
-    items: #itmems 可以小块的方式显示
-     - 汉语 - 普通话二甲
-     - 英语 - 大学英语六级：538
-     - 法语 - 入门水平 
+  - title: 编程
+  items:  
+     - Python
+     - R
   - title: 软件
     items:  
      - 生物 - Origin,ImageJ
      - 办公 - Office办公软件
-     - 剪辑 - PR,Arctime Pro 
+  - title: 语言
+    items: #itmems 可以小块的方式显示
+     - 汉语 - 普通话二甲
+     - 英语 - 大学英语六级：538 雅思：6.5
+     - 法语 - 基础
 
 - type: experience
   name: 经验
