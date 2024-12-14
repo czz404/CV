@@ -1,17 +1,17 @@
-# 数据格式可以为 yaml(文件以.yml结尾) 或者json(文件以.json结尾)
-# 如果YAML格式的数据请先检查格式是否有误，可选检查工具 http://www.yamllint.com
+# 数据格式可以为 yaml(文件以.yml 结尾) 或者 json(文件以.json 结尾)
+# 如果 YAML 格式的数据请先检查格式是否有误，可选检查工具 http://www.yamllint.com
 
 title: "陈治铮 简历"
-lang: "zh" #语言设置 zh表示中文 en 表示英语
+lang: "zh" #语言设置 zh 表示中文 en 表示英语
 name: "陈治铮"
 jobtitle: "" #可空不显示
 photo: "" #照片可空，不显示
 
 #联系方式
-contact: #联系方式连接等3~5行
+contact: #联系方式连接等 3~5 行
 - text: "zhizhengchen@link.cuhk.edu.cn" #文本内容
   href: 'mailto:zhizhengchen@link.cuhk.edu.cn' #链接，无链接则空  
-  icon: 'icons/email.svg' #图标 svg文件
+  icon: 'icons/email.svg' #图标 svg 文件
 - text: "15140093933"
   href: 'tel:15140093933'
   icon: 'icons/phone.svg'
@@ -25,17 +25,17 @@ contact: #联系方式连接等3~5行
   # - text: "地址"
   #   icon: "icons/location.svg"
 
-#main下面是主体内容，类别条数不限
+#main 下面是主体内容，类别条数不限
 main: #简历主要内容，
-- type: education #类别为ID
-  name: 教育 #显示名称，空则使用type
+- type: education #类别为 ID
+  name: 教育 #显示名称，空则使用 type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: 香港中文大学（深圳）医学院
-    duration: "2024年8月 - 至今"
+    duration: "2024 年 8 月 - 至今"
     sub: 生物信息学理学硕士
-    detail: 预计2025年12月毕业
+    detail: 预计 2025 年 12 月毕业
   - title: 武汉理工大学 艾克斯马赛学院
-    duration: "2019年6月 - 2023年6月"
+    duration: "2019 年 6 月 - 2023 年 6 月"
     sub: 生物技术理学学士
     detail: 武汉理工大学，法国艾克斯马赛大学双学位
 
@@ -43,13 +43,13 @@ main: #简历主要内容，
   name: 技能
   content:
   - title: 编程
-  items:  
+    items:  
      - Python
      - R
   - title: 软件
     items:  
      - 生物 - Origin,ImageJ
-     - 办公 - Office办公软件
+     - 办公 - Office 办公软件
   - title: 语言
     items: #itmems 可以小块的方式显示
      - 汉语 - 普通话二甲
@@ -61,15 +61,15 @@ main: #简历主要内容，
   content:
   - title: 职位
     sub: 团委新闻部和青年志愿者协会宣传部
-    duration: "2019年10月 - 2023年6月"
+    duration: "2019 年 10 月 - 2023 年 6 月"
     tags:
     - 学生工作
     summary: 干事及院宣传委
     detail: 1.	参与拍摄、剪辑商品、风景、疫情、社会实践、科学实验等主题宣传片；
-            2.	撰写团委、学生会、学院各类活动新闻，在院主页和国家、省、市新闻平台发表文章17篇； 
+            2.	撰写团委、学生会、学院各类活动新闻，在院主页和国家、省、市新闻平台发表文章 17 篇； 
             3.	成功组织一场扶贫义卖活动；协助组织完成多项志愿服务；培训各班宣传委员。
     open: open
-    #可以设置open默认展开
+    #可以设置 open 默认展开
   - title: 职位
     sub: 沈阳狐狸寰球教育科技有限公司  
     duration: "2021 年 7 月 - 2022 年 8 月"
