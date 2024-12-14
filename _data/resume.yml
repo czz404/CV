@@ -15,13 +15,13 @@ contact: #联系方式连接等 3~5 行
 - text: "15140093933"
   href: 'tel:15140093933'
   icon: 'icons/phone.svg'
-- text: "bento.me/czz"
+- text: "个人网站"
   href: 'https://bento.me/czz'
   icon: 'icons/web.svg'
-- text: "czz404"
-  href: 'https://github.com/czz404'
-  icon: "icons/github.svg"
-  attr: 'target="_blank"' #新标签页打开
+#- text: "czz404"
+  #href: 'https://github.com/czz404'
+  #icon: "icons/github.svg"
+  #attr: 'target="_blank"' #新标签页打开
   # - text: "地址"
   #   icon: "icons/location.svg"
 
@@ -53,7 +53,7 @@ main: #简历主要内容，
   - title: 语言
     items: #itmems 可以小块的方式显示
      - 汉语 - 普通话二甲
-     - 英语 - 大学英语六级：538 雅思：6.5
+     - 英语 - 大学英语六级：538;  雅思：6.5
      - 法语 - 基础
 
 - type: experience
@@ -92,12 +92,12 @@ main: #简历主要内容，
   name: 项目
   content:
   - title: 三下乡暑期社会实践队
-    duration: 2020年7月 - 2020年9月
-    summary: 所在团队获评湖北省2020年暑期“三下乡”社会实践活动优秀团队
-    detail: 武汉理工大学关于在抗击非典和新冠肺炎疫情中社会应对措施的比较和分析暑期社会实践队获评湖北省2020年暑期“三下乡”社会实践活动优秀团队
+    duration: 2020 年 7 月 - 2020 年 9 月
+    summary: 所在团队获评湖北省 2020 年暑期“三下乡”社会实践活动优秀团队
+    detail: 武汉理工大学关于在抗击非典和新冠肺炎疫情中社会应对措施的比较和分析暑期社会实践队获评湖北省 2020 年暑期“三下乡”社会实践活动优秀团队
     sub: 团队人员
   - title: 研发用于重金属离子检测的便携式比色传感器项目组
-    duration: 2020年9月 - 2021年4月
+    duration: 2020 年 9 月 - 2021 年 4 月
     summary: 针对铜、铬、镍三种重金属元素制作出了对应的快速检测试纸
     detail: 撰写“新便携式总金属检测试纸更廉价、便捷”一文，发表在“中国科技网”
     sub: 团队人员
@@ -105,7 +105,7 @@ main: #简历主要内容，
 
 #others 其他简略内容(列表)
 others: #其他列表显示
-- type: others #ID可以为空
+- type: others #ID 可以为空
   name: '荣誉奖励'
   content: #选择需要的格式
   - title: 
@@ -120,16 +120,16 @@ others: #其他列表显示
 #  - 单行文字
 #  - 如果有可以继续添加
 
-#footer 脚注，打印版和web版不同不显示    
+#footer 脚注，打印版和 web 版不同不显示    
 footer: #脚注多组
-  print: #打印版markdown或者html
+  print: #打印版 markdown 或者 html
   screen:
   - text: "简历脚注"
   #   href: '/'
   - text: "Made with &hearts; by NewFuture"
     href: "https://github.com/NewFuture/CV/"
 
-#页面额外js脚本，如xx统计
+#页面额外 js 脚本，如 xx 统计
 scripts:
 #- src: "assets/js/resume.js"
-#  defer: defer #可以设置defer或者sync异步加载
+#  defer: defer #可以设置 defer 或者 sync 异步加载
