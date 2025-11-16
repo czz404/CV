@@ -12,8 +12,8 @@ contact: #联系方式连接等 3~5 行
 - text: "zhizhengchen@link.cuhk.edu.cn" #文本内容
   href: 'mailto:zhizhengchen@link.cuhk.edu.cn' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg 文件
-- text: "15140093933"
-  href: 'tel:15140093933'
+- text: "+86 15140093933"
+  href: 'tel:+86 15140093933'
   icon: 'icons/phone.svg'
 - text: "个人网站"
   href: 'https://bento.me/czz'
@@ -46,14 +46,15 @@ main: #简历主要内容，
     items:  
      - Python
      - R
+     - Bash
   - title: 软件
     items:  
-     - 生物 - Origin,ImageJ
-     - 办公 - Office 办公软件
+     - 生物 - Origin, ImageJ, igv, PyMOL, gatk, BLAST
+     - 办公 - MS Office, LIBRE Office, overleaf
   - title: 语言
     items: #itmems 可以小块的方式显示
      - 汉语 - 普通话二甲
-     - 英语 - 大学英语六级：538;  雅思：6.5
+     - 英语 - 大学英语六级:538;  雅思:6.5
      - 法语 - 基础
 
 - type: experience
