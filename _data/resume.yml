@@ -15,9 +15,9 @@ contact: #联系方式连接等 3~5 行
 - text: "+86 15140093933"
   href: 'tel:+86 15140093933'
   icon: 'icons/phone.svg'
-- text: "个人网站"
-  href: 'https://bento.me/czz'
-  icon: 'icons/web.svg'
+#- text: "个人网站"
+  #href: 
+  #icon: 'icons/web.svg'
 #- text: "czz404"
   #href: 'https://github.com/czz404'
   #icon: "icons/github.svg"
